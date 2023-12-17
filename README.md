@@ -1,16 +1,15 @@
 # Hi there! 👋 I'm Peerapat.
 
-I'm a computer engineering student at [KMUTT](https://www.kmutt.ac.th/) with a passion for technology, specifically in Frontend development and UX/UI design. Welcome to my GitHub profile!
-
+I'm a computer engineering student at [KMUTT](https://www.kmutt.ac.th/) with a passion for technology, specifically in Frontend development and UX/UI design.
+ 
 ## 🚀 About Me
 
 - 🎓 Studying Computer Engineering at KMUTT.
 - 💻 Passionate about Frontend development and UX/UI design.
-- 🌱 Currently learning and exploring new technologies.
+- 🌱 Currently learning and exploring new technologies
 
 ### Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-Message-blue?style=for-the-badge&logo=gmail)](mailto:peerapat.xiv@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/peerapatpadt)
 [![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance)](https://www.behance.net/peerapapadthaw)
 
