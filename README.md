@@ -10,6 +10,7 @@ I'm a computer engineering student at [KMUTT](https://www.kmutt.ac.th/) with a p
 
 ### Connect with Me
 
+[![Email](https://img.shields.io/badge/Email-Message-blue?style=for-the-badge&logo=gmail)](mailto:peerapat.xiv@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/peerapatpadt)
 [![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance)](https://www.behance.net/peerapapadthaw)
 
