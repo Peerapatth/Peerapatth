@@ -28,7 +28,6 @@ I'm a computer engineering student at [KMUTT](https://www.kmutt.ac.th/) with a p
   <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40">
   <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
   <img alt="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40">
-  <img alt="Chart.js" src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40">
 </div>
 
 ### Interest in
