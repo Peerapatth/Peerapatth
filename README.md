@@ -23,6 +23,7 @@ I'm a computer engineering student at [KMUTT](https://www.kmutt.ac.th/) with a p
   <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40">
   <img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40">
   <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40">
+  <img alt="Vue.js" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="40" height="40">
   <img alt="Svelte" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="40" height="40">
   <img alt="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40">
   <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40">
