@@ -31,13 +31,6 @@ I'm a computer engineering student at [KMUTT](https://www.kmutt.ac.th/) with a p
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </div>
 
-### Learning
-
-<div align="left">
-  <img alt="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peerapatth/Peerapatth/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peerapatth/Peerapatth/output/github-contribution-grid-snake.svg">
