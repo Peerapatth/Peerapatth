@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Peerapat.
 
-I'm a computer engineering student at [KMUTT](https://www.kmutt.ac.th/) with a passion for technology, specifically in Frontend development and UX/UI design.
+I’m passionate about technology and design, focused on creating seamless user experiences with intuitive and visually appealing interfaces. I specialize in front-end development using Vue.js and Nuxt.js, collaborating closely with designers and developers to build responsive, user-friendly applications.
+
+I enjoy exploring new technologies, understanding user behavior, and bridging the gap between design and development to craft meaningful digital experiences. Always eager to learn and grow, I aim to contribute to innovative projects that push the boundaries of technology and design.
 </br>**📧 Email:** [peerapat.xiv@gmail.com](mailto:peerapat.xiv@gmail.com)
 
 ## 🚀 About Me
