@@ -5,7 +5,7 @@ I enjoy exploring new technologies, understanding user behavior, and bridging th
 
 ## 🚀 About Me
 
-- 🎓 Studying Computer Engineering at KMUTT.
+- 🎓 Computer Engineering at KMUTT.
 - 💻 Passionate about software development and UX/UI design.
 - 🌱 Currently learning and exploring new technologies
 
